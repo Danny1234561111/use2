@@ -1,0 +1,6 @@
+module untitled9
+typeinfo appuntitled9.qmltypes
+prefer :/untitled9/
+Main 1.0 Main.qml
+Comp 1.0 Comp.qml
+
